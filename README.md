@@ -62,6 +62,6 @@ El diseño de la base de datos ha sido estructurado bajo estándares de integrid
 ---
 ## 🖥️ System Showcase: Facturación SyEventos
 <div align="center">
-  <video src="[https://github.com/user-attachments/assets/530f049c-44fe-4eac-9b13-9fad66bde46d]">
+  <video src="https://github.com/user-attachments/assets/530f049c-44fe-4eac-9b13-9fad66bde46d">
   </video>
 </div>
