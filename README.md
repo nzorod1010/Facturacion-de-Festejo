@@ -16,7 +16,7 @@ El sistema actúa como un motor de inteligencia operativa, permitiendo automatiz
 Dada la naturaleza económica del entorno operativo, el sistema integra un módulo de automatización financiera crítica:
 
 * **Web Scraping en Tiempo Real:** Implementación de `HtmlAgilityPack` para la extracción automatizada de la tasa oficial desde el portal del Banco Central de Venezuela (BCV).
-* **Gestión Multimoneda Dinámica:** Capacidad para procesar documentos en USD y VES simultáneamente mediante vistas especializadas (`FacturaUsdWindow`). El sistema recalcula montos al instante garantizando transparencia financiera.
+* **Gestión Multimoneda Dinámica:** Capacidad para procesar documentos en USD y VES simultáneamente mediante vistas especializadas . El sistema recalcula montos al instante garantizando transparencia financiera.
 * **Manejo de Resiliencia de Red:** Algoritmos de validación y manejo de excepciones que aseguran la estabilidad del sistema ante fallos de conexión o cambios en el portal externo.
 
 ---
@@ -45,7 +45,7 @@ El diseño de la base de datos ha sido estructurado bajo estándares de integrid
 
 * **Core & Runtime:** C# bajo el ecosistema .NET.
 * **Interfaz de Usuario (UI):** WPF (Windows Presentation Foundation) con diseño minimalista y navegación fluida.
-* **Persistencia de Datos:** SQLite bajo una arquitectura de Capa de Acceso a Datos (DAL), utilizando `DatabaseContext` para desacoplar la lógica de negocio.
+* **Persistencia de Datos:** SQLite bajo una arquitectura de Capa de Acceso a Datos (DAL), utilizando `una clase para desacoplar la lógica de negocio.
 * **Librerías Clave:**
     * **HtmlAgilityPack:** Extracción y procesamiento de datos web.
     * **Microsoft.Data.Sqlite:** Manipulación segura de la base de datos.
