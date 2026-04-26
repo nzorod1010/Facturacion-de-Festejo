@@ -60,3 +60,8 @@ El diseño de la base de datos ha sido estructurado bajo estándares de integrid
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-rodr%C3%ADguez-47756a404/)
 
 ---
+## 🖥️ System Showcase: Facturación SyEventos
+<div align="center">
+  <video src="[https://github.com/user-attachments/assets/530f049c-44fe-4eac-9b13-9fad66bde46d](https://github.com/user-attachments/assets/89458030-27f4-47f7-938b-b12802092506)">
+  </video>
+</div>
